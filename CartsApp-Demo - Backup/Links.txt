@@ -1,2 +1,0 @@
-https://microservices-demo.github.io/deployment/kubernetes-start.html
-https://github.com/microservices-demo/microservices-demo
